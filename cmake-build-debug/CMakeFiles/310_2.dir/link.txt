@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/310_2.dir/cpu.c.o CMakeFiles/310_2.dir/interpreter.c.o CMakeFiles/310_2.dir/kernel.c.o CMakeFiles/310_2.dir/pcb.c.o CMakeFiles/310_2.dir/ram.c.o CMakeFiles/310_2.dir/shell.c.o CMakeFiles/310_2.dir/shellmem.c.o  -o 310_2 
